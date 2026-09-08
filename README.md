@@ -238,9 +238,3 @@ For a stronger final version, preprocessing should be fitted only on training da
 
 Install the dependencies listed in `requirements.txt` and open the notebook:
 
-## Project Files
-
-- **Dataset:** `data/Nextera_dataset.csv`
-- **Main notebook:** `notebooks/Nextera_project_phase.ipynb`
-- **Reference paper:** `reference/reference_paper.pdf`
-- **Generated figures:** `results/figures/`

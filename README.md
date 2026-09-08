@@ -1,4 +1,4 @@
-# Nextera – Fake Job Recruitment Detection Using Machine Learning
+# Fake Job Recruitment Detection Using Machine Learning
 
 A machine-learning project for identifying potentially fraudulent online job advertisements from structured job-posting information. The project explores data preprocessing, feature engineering, encoding, scaling, train/test splitting, and comparison of **Logistic Regression, Linear SVM, and Random Forest** classifiers.
 

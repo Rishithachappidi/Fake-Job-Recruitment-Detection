@@ -238,17 +238,6 @@ For a stronger final version, preprocessing should be fitted only on training da
 
 Install the dependencies listed in `requirements.txt` and open the notebook:
 
-```bash
-pip install -r requirements.txt
-jupyter notebook
-```
-
-Then open:
-
-```text
-notebooks/Nextera_project_phase.ipynb
-```
-
 ## Project Files
 
 - **Dataset:** `data/Nextera_dataset.csv`
